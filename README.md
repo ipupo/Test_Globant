@@ -4,8 +4,9 @@
 
 **Pasos para ejecutar:**
 
-1. Descomprimir zip en una carpeta del sistema
-2. Ejecutar por Terminal mvn -Dtest= Test_login test
+1. Clonar repositorio
+2. Abrir una terminal en directorio donde se clono el repositorio y ejecutar el siguiente comando:
+`mvn -Dtest= Test_login test`
 
 **Observaciones:**
 
